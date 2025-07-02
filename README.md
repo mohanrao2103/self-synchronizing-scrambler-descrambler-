@@ -107,4 +107,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## 🔗 Connect
-If you found this project helpful or interesting, feel free to ⭐ star the repo and connect with me on [LinkedIn](www.linkedin.com/in/mohan-rao-kosanam-b824a3236).
+If you found this project helpful or interesting, feel free to ⭐ star the repo and connect with me on [LinkedIn]((https://www.linkedin.com/in/mohan-rao-kosanam-b824a3236/)).
