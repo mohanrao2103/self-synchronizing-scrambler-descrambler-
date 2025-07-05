@@ -97,10 +97,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📸 Screenshots
 
 ### 🔧 Block Diagram
-![Block Diagram](Images/Block Diagram.png)
+![Block Diagram](Images/Block_Diagram.png)
 
 ### 📊 Output Waveform
-![Waveform](Images/Output Waveforms.png)
+![Waveform](Images/Output_Waveforms.png)
 
 
 ## 🔗 Connect
