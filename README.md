@@ -38,9 +38,6 @@ scrambler-descrambler-verilog/
 │   └── descrambler.v
 ├── Testbench/             # Simulation files
 │   └── tb_top.v
-├── Docs/                  # Project report and presentation
-│   ├── Project_Report.pdf
-│   └── Project_Presentation.pptx
 ├── Images/                # Diagrams and waveform screenshots
 │   ├── block_diagram.png
 │   └── simulation_waveform.png
